@@ -1,0 +1,32 @@
+header {
+    height: 75px;
+    border-style: inset;
+    border-width: 10px;
+}
+
+main {
+    margin: auto;
+    padding-top: 4rem;
+}
+
+.black_background {
+    background-color: #090708;
+}
+
+.grey {
+    background-color: #CCCCCC;
+}
+
+.container {
+    border: 8px solid  #FFA500;
+    width: 1154px;
+    margin: auto;
+}
+
+.black_border {
+    border: 1px solid black;
+}
+
+.cell {
+    height: calc(1154px / 12);
+}
