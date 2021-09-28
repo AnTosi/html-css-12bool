@@ -21,12 +21,31 @@ main {
     border: 8px solid  #FFA500;
     width: 1154px;
     margin: auto;
+    font-size: 3rem;
+    font-weight: bolder;
 }
 
 .black_border {
     border: 1px solid black;
 }
 
+.one {
+    color: blue;
+}
+
+.two {
+    color: green;
+}
+
 .cell {
     height: calc(1154px / 12);
+}
+
+.outset {
+    border-style: outset;
+    border-width: 10px;
+}
+
+.red_background {
+    background-color: red;
 }
