@@ -29,3 +29,10 @@ p {
 vertical-align: middle;
 }
 
+.wh_border {
+    border: 1px solid white;
+} 
+
+.red_background {
+    background-color: #F07F80;
+}
